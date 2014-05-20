@@ -1,0 +1,29 @@
+
+----START OF RECORD---
+Total nodes in the n/w: 1368
+ Merged nodes in the n/w: 684
+ 2 no of nodes are merged
+Keys per node: 36
+Compromised nodes: 10
+broken links: 62472
+
+Total links : 233586
+E(s)=0.267448
+ V(s):0
+
+VT(10) = 0.983918
+----END OF RECORD---
+----START OF RECORD---
+Total nodes in the n/w: 2400
+ Merged nodes in the n/w: 1200
+ 2 no of nodes are merged
+Keys per node: 48
+Compromised nodes: 15
+broken links: 212070
+
+Total links : 719400
+E(s)=0.294787
+ V(s):0
+
+VT(15) = 0.986667
+----END OF RECORD---
